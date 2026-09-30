@@ -1,10 +1,18 @@
-# Abhilash Vadla
+# Abhilash Vadlamoodi
 
-AI engineer focused on reliable agent systems and production Python backends.
+AI engineer with 4+ years across machine learning and applied AI, focused on reliable agent systems,
+retrieval, evaluation, and production Python backends.
 
 I build AI-assisted workflows where models investigate and recommend, while deterministic services
 retain authority over approvals, execution, and verification. My current work centers on agent
 orchestration, grounded retrieval, evaluation, human review, and observable APIs.
+
+## Experience
+
+- **UnitedHealth Group · AI Engineer · 2024-present** — production LangGraph and RAG workflows used
+  by 250+ reviewers across 5+ operations teams, handling 10,000+ executions per week.
+- **Cognizant · Machine Learning Engineer · 2020-2023** — healthcare forecasting, risk modeling,
+  NLP, and data pipelines built with Python, SQL, and established ML frameworks.
 
 ## Selected work
 
@@ -14,7 +22,7 @@ An AI operations system for customer and employee cases. Complex cases use a fiv
 investigation, with versioned evidence, human approval gates, tenant-scoped actions, idempotent
 execution, and fresh-state verification.
 
-- **Try it:** [live synthetic demo](https://resolveops-demo.onrender.com/console)
+- **Try it:** [live synthetic demo](https://resolveops-demo.onrender.com/console) *(the free host may take about one minute to wake)*
 - **See it:** [42-second product walkthrough](https://github.com/abhilashvadla98-pixel/resolveops/releases/download/recruiter-demo-v1/resolveops-recruiter-demo.webm)
 - **Inspect it:** [architecture, evaluation evidence, and quick start](https://github.com/abhilashvadla98-pixel/resolveops#readme)
 - **Stack:** Python, FastAPI, LangGraph, PostgreSQL, SQLAlchemy, Docker, GitHub Actions, Terraform, MCP
@@ -33,9 +41,10 @@ limitations.
 
 ## Tools I use
 
-**AI systems:** LangGraph, model-provider APIs, retrieval, MCP, structured evaluation  
-**Backend:** Python, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, Redis  
-**Delivery:** Docker, GitHub Actions, Terraform, Render, AWS reference infrastructure  
+**AI systems:** LangGraph, LangChain, model-provider APIs, RAG, MCP, structured evaluation<br>
+**Backend:** Python, FastAPI, Pydantic, SQLAlchemy, PostgreSQL, Redis<br>
+**Delivery:** Azure, AWS, GCP, Docker, Kubernetes, GitHub Actions, Terraform<br>
 **Quality:** Pytest, Ruff, MyPy, Playwright, Bandit, pip-audit
 
-I am open to AI Engineer, Applied AI, LLM Engineer, and AI Platform opportunities.
+Based in Monroeville, Pennsylvania. I am open to AI Engineer, Applied AI, LLM Engineer, and AI
+Platform opportunities. [Connect with me on LinkedIn](https://www.linkedin.com/in/vadlamoodi-abhilash).
